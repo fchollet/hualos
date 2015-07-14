@@ -25,4 +25,4 @@ model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation
 
 - JS (included in the repo):
     - d3.js
-    - d3.js
+    - c3.js
